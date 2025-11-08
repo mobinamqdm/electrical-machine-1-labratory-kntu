@@ -62,8 +62,8 @@ electrical-machine-1-lab-project/
 │
 ├─ simulink/
 │  ├─ DC-dual-loop.slx                             # Dual-loop DC motor control model
-│  ├─ DC-dual-loop_single-loop_comparasion.slx     # Comparative simulation model
-│  ├─ DC-motor_single_loop.slx                     # Single-loop DC motor control model
+│  ├─ DC-dual-loop-single-loop-comparasion.slx     # Comparative simulation model
+│  ├─ DC-motor-single-loop.slx                     # Single-loop DC motor control model
 │
 ├─ report/
 │  └─ DC-motor-single-and-dual-controller-simulation-report.pdf
@@ -86,7 +86,7 @@ electrical-machine-1-lab-project/
 | Model | Description |
 |------|-------------|
 | [DC-dual-loop.slx](electrical-machine-1-lab-project/simulink/DC-dual-loop.slx) | Dual-loop (speed outer, current inner) |
-| [DC-dual-loop_single-loop_comparasion.slx](electrical-machine-1-lab-project/simulink/DC-dual-loop_sinlge-loop_comparasion.slx) | Combined model to compare **single** vs **dual** loop |
+| [DC-dual-loop-single-loop-comparasion.slx](electrical-machine-1-lab-project/simulink/DC-dual-loop-sinlge-loop-comparasion.slx) | Combined model to compare **single** vs **dual** loop |
 | [DC-motor-single-loop.slx](electrical-machine-1-lab-project/simulink/DC-motor-single-loop.slx) | Single-loop speed control |
 
 ### Reports & Paper
